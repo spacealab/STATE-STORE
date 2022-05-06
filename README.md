@@ -1,3 +1,2 @@
 # STATE-STORE
-manage state use redux
-((React Native MY_Practice))
+React Native MY Practice: this is a app you can manage state use redux!
